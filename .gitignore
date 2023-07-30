@@ -1,0 +1,4 @@
+# ROS2 micro-ROS workspace files
+*/build/
+*/install/
+*/log/
